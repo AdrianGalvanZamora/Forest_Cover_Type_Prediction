@@ -44,7 +44,7 @@ Este proyecto demuestra habilidades en análisis de datos con enfoque biológico
 
 ## Cómo Ejecutar
 1. Descarga el dataset y coloca `covtype.data` en la carpeta.
-2. Abre `Proyecto8_CoberturaForestal.ipynb` en Jupyter Notebook.
+2. Abre `Prediccion_cobertura_forestal.ipynb` en Jupyter Notebook.
 3. Ejecuta las celdas en orden.
 4. Nota: El entrenamiento puede tomar ~5-10 minutos debido al tamaño del dataset.
 
